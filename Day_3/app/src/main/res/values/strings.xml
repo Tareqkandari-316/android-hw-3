@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day_3</string>
+    <string name="grade_chart" />
+    <string name="reset" />
+</resources>
